@@ -5,16 +5,16 @@ Several analyses were performed in Python, and all the data, scripts, visualizat
 The project was organized into five folders to ensure easy access to the desired dataset, scripts, visualizations, and reports:
 
 ## 01_Project_management
-This folder contains a PDF file with the project description and goals, along with an Excel file template for the final report.
+This [folder](01_Project_management) contains a PDF file with the project description and goals, along with an Excel file template for the final report.
 
 ## 02_Data
-This folder contains two subfolders: one with the original data and one with prepared data.
+This [folder](02_Data) contains two subfolders: one with the original data and one with prepared data.
 
 ## 03_Scripts
-In this folder, all Python scripts used to analyze the data are gathered. All of them are saved as Jupyter Notebooks.
+In this [folder](03_Scripts), all Python scripts used to analyze the data are gathered. All of them are saved as Jupyter Notebooks.
 
 ## 04_Analysis
-Here, all the visualizations of the data are gathered, along with a JSON report file.
+[Here](04_Analysis), all the visualizations of the data are gathered, along with a JSON report file.
 
 ## 05_Sent_to_client
-This folder contains the final report in Excel format.
+This [folder](05_Sent_to_client) contains the final report in Excel format.
